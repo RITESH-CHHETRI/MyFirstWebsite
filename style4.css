@@ -1,0 +1,24 @@
+body, html {
+    height: 100%;
+  }
+  body { 
+    background-image: url("GV.jpg") ;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+  margin: 10px;
+  }
+  .text{
+    background-color:rgba(0, 0, 0, 0.2);
+    border-style: solid;
+    border-radius: 22px;
+    border-color: rgba(0, 0, 0, 0.4);
+    border-width: 20px;
+    margin-left:25%;
+    font-style: italic;
+    font-size: 30px;
+  padding:50px 160px;
+  height:600px;
+  color: blue;
+  }

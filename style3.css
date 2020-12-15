@@ -1,0 +1,28 @@
+body, html {
+    height: 100%;
+  }
+  body { 
+    background-image: url("trunks.jpg") ;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+  margin: 10px;
+  }
+
+  
+h2 {
+  background-color:rgba(0, 0, 0, 0.2);
+  border-style: solid;
+  border-radius: 22px;
+  border-color: rgba(0, 0, 0, 0.4);
+  border-width: 20px;
+  margin-left:25%;
+  margin-right: 55%;
+  font-style: italic;
+  font-size: 60px;
+padding:20px 20px 20px 20px;
+height:50px;
+color: black;
+}
+
